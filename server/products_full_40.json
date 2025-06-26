@@ -11,7 +11,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image1.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1047",
@@ -25,7 +26,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image2.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1010",
@@ -38,7 +40,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image3.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1003",
@@ -51,7 +54,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image4.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1048",
@@ -65,7 +69,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image5.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1007",
@@ -77,7 +82,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image6.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1005",
@@ -90,7 +96,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image7.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1049",
@@ -102,7 +109,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image8.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1008",
@@ -115,7 +123,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image9.png",
-    "category": "Safety I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1004",
@@ -124,7 +133,8 @@
     "sizes": "24G & 26G",
     "options": [],
     "image": "/assets/images/image10.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1035",
@@ -138,7 +148,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image11.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1036",
@@ -152,7 +163,8 @@
       "Packing in Coloured Paper / Medical Grade Paper / Tyvek"
     ],
     "image": "/assets/images/image12.png",
-    "category": "I.V. Cannula"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "IV Cannula"
   },
   {
     "productCode": "1401",
@@ -164,7 +176,8 @@
       "Without Rotator"
     ],
     "image": "/assets/images/image13.png",
-    "category": "Stop Cock"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Three Way Stop Cock"
   },
   {
     "productCode": "1402",
@@ -176,7 +189,8 @@
       "Without Rotator"
     ],
     "image": "/assets/images/image14.png",
-    "category": "Stop Cock"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Three Way Stop Cock"
   },
   {
     "productCode": "1302",
@@ -188,7 +202,8 @@
       "Rotating Luer Lock"
     ],
     "image": "/assets/images/image15.png",
-    "category": "Stop Cock"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Three Way Stop Cock"
   },
   {
     "productCode": "1207",
@@ -199,18 +214,20 @@
       "With Slide Clamp"
     ],
     "image": "/assets/images/image16.png",
-    "category": "Extension Tube"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Extension Tube"
   },
   {
     "productCode": "1202",
     "name": "ECOEXTT HP",
     "description": "Extension Tube : High Pressure (DEHP Free)",
-    "sizes": "10, 25, 50, 100, 150 & 200 cm. Tube Dia: I\u00d8 1.0mm, O\u00d8 2.8mm",
+    "sizes": "10, 25, 50, 100, 150 & 200 cm. Tube Dia: I∅ 1.0mm, O∅ 2.8mm",
     "options": [
       "With Slide Clamp"
     ],
     "image": "/assets/images/image17.png",
-    "category": "Extension Tube"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Extension Tube"
   },
   {
     "productCode": "1201",
@@ -222,7 +239,8 @@
       "With Slide Clamp"
     ],
     "image": "/assets/images/image18.png",
-    "category": "Extension Tube"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Extension Tube"
   },
   {
     "productCode": "1204",
@@ -234,7 +252,8 @@
       "Large Bore / Micro Bore Tube"
     ],
     "image": "/assets/images/image19.png",
-    "category": "Extension Tube"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Extension Tube"
   },
   {
     "productCode": "1209",
@@ -246,7 +265,8 @@
       "With Luer Lock"
     ],
     "image": "/assets/images/image20.png",
-    "category": "Extension Tube"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Extension Tube"
   },
   {
     "productCode": "3601",
@@ -255,7 +275,8 @@
     "sizes": "6FG to 24FG",
     "options": [],
     "image": "/assets/images/image21.png",
-    "category": "Catheter"
+    "category": "Urology",
+    "subcategory": "Catheter"
   },
   {
     "productCode": "1107",
@@ -267,7 +288,8 @@
       "With Flow Regulator"
     ],
     "image": "/assets/images/image22.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "1117",
@@ -280,7 +302,8 @@
       "Rotating Luer Lock"
     ],
     "image": "/assets/images/image23.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "1118",
@@ -292,7 +315,8 @@
       "Needle Free Y Injection Port"
     ],
     "image": "/assets/images/image24.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "1111",
@@ -304,7 +328,8 @@
       "Needle Free Y Connector"
     ],
     "image": "/assets/images/image25.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "1105",
@@ -316,7 +341,8 @@
       "Needle Free Y Injection Port"
     ],
     "image": "/assets/images/image26.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "1112",
@@ -328,7 +354,8 @@
       "Needle Free Y Connector"
     ],
     "image": "/assets/images/image27.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "I.V. Infusion Set"
   },
   {
     "productCode": "2402",
@@ -341,7 +368,8 @@
       "Luer lock"
     ],
     "image": "/assets/images/image28.png",
-    "category": "Transfusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Blood Transfusion Set"
   },
   {
     "productCode": "1501",
@@ -355,7 +383,8 @@
       "Needle Free Y Injection Port"
     ],
     "image": "/assets/images/image29.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Burette Set"
   },
   {
     "productCode": "1503",
@@ -369,7 +398,8 @@
       "Needle free y-site"
     ],
     "image": "/assets/images/image30.png",
-    "category": "Infusion Set"
+    "category": "Infusion & Transfusion Therapy",
+    "subcategory": "Burette Set"
   },
   {
     "productCode": "2601",
@@ -378,7 +408,8 @@
     "sizes": "8 to 40 FG",
     "options": [],
     "image": "/assets/images/image31.png",
-    "category": "Drainage Catheter"
+    "category": "Surgery & Wound Drainage",
+    "subcategory": "Thoracic Catheter"
   },
   {
     "productCode": "2801",
@@ -387,7 +418,8 @@
     "sizes": "10 to 40 FG",
     "options": [],
     "image": "/assets/images/image32.png",
-    "category": "Drainage Catheter"
+    "category": "Surgery & Wound Drainage",
+    "subcategory": "Thoracic Catheter"
   },
   {
     "productCode": "2901",
@@ -402,7 +434,8 @@
       "Sizes of Bellow Chamber 600ml & 800ml"
     ],
     "image": "/assets/images/image33.png",
-    "category": "Suction Unit"
+    "category": "Surgery & Wound Drainage",
+    "subcategory": "Closed Wound Suction Unit"
   },
   {
     "productCode": "2301",
@@ -411,7 +444,8 @@
     "sizes": "Tube Length - 210 cms, 250 cms & 300 cms",
     "options": [],
     "image": "/assets/images/image34.png",
-    "category": "Suction Set"
+    "category": "Surgery & Wound Drainage",
+    "subcategory": "Yankauer Suction Set"
   },
   {
     "productCode": "2302",
@@ -420,7 +454,8 @@
     "sizes": "Tube Length - 210 cms, 250 cms & 300 cms",
     "options": [],
     "image": "/assets/images/image35.png",
-    "category": "Suction Set"
+    "category": "Surgery & Wound Drainage",
+    "subcategory": "Yankauer Suction Set"
   },
   {
     "productCode": "2001-2202",
@@ -438,6 +473,7 @@
       "Clamp Fastener"
     ],
     "image": "/assets/images/image36.png",
-    "category": "Catheter"
+    "category": "Central Venous Access Catheters",
+    "subcategory": "Central Venous Catheter"
   }
 ]
