@@ -11,6 +11,6 @@ router.get("/products", (req, res) => {
   return getAllProducts(req, res);
 });
 
-router.get('/products/grouped', getGroupedProducts);
+router.get('/grouped', getGroupedProducts);
 
 export default router;

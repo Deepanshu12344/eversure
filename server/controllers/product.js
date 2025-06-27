@@ -26,25 +26,31 @@ export const getAllProducts = async (req, res) => {
   }
 };
 
-// controllers/product.js
+
 export const getGroupedProducts = async (req, res) => {
   try {
     const products = await Product.find();
 
-    // Group by category > subcategory
     const grouped = {};
-    for (const product of products) {
+
+    products.forEach(product => {
       const { category, subcategory } = product;
 
-      if (!grouped[category]) grouped[category] = {};
-      if (!grouped[category][subcategory]) grouped[category][subcategory] = [];
+      if (!grouped[category]) {
+        grouped[category] = {};
+      }
+
+      if (!grouped[category][subcategory]) {
+        grouped[category][subcategory] = [];
+      }
 
       grouped[category][subcategory].push(product);
-    }
+    });
 
-    res.status(200).json(grouped);
+    res.json(grouped);
   } catch (err) {
-    console.error("Error fetching grouped products:", err);
-    res.status(500).json({ error: "Failed to group products" });
+    console.error('Error grouping products:', err);
+    res.status(500).json({ message: 'Server error' });
   }
 };
+
